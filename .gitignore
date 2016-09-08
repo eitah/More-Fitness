@@ -1,0 +1,8 @@
+.gradle/
+build/
+compute/build/
+data/build/
+web/build/
+device/build/
+.idea/
+classes/
